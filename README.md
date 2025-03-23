@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Kritagyay/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kritagyay/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kritagyay/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Array
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Kritagyay/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
